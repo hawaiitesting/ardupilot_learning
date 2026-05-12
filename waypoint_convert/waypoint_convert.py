@@ -50,4 +50,4 @@ def convert_waypoints_to_cpp(file_path):
 
 if __name__ == "__main__":
     # 脚本会读取同目录下的 waypoint1.waypoints
-    convert_waypoints_to_cpp('waypoint1.waypoints')
+    convert_waypoints_to_cpp('waypoint.waypoints')
